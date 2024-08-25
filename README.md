@@ -1,2 +1,2 @@
 # hermes
-React native first app, to keep accounts
+<s>React native</s> <b>First mobile app</b>, to keep accounts
